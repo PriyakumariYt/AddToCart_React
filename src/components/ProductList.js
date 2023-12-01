@@ -1,5 +1,5 @@
 
-// src/components/ProductList.js
+
 import React from 'react';
 
 const ProductList = ({ products, addToCart }) => {
